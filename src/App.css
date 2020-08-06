@@ -1,0 +1,16 @@
+.center {
+  text-align: center;
+  margin: 20px;
+  text-decoration: none;
+  font-size: larger;
+  word-spacing: 15px;
+  border: none;
+}
+
+.nav {
+  background-color: green;
+  min-height: 7vh;
+  display: flex;
+  justify-content: center;
+  
+}
